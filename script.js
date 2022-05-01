@@ -1,4 +1,4 @@
-var myAge = (((new Date().getFullYear() - 2010)*365)+((new Date().getMonth() - 4)*30)+((new Date().getDate() - 28)))/365;
+var myAge = new Date().getFullYear() - 2009;
 document.getElementsByClassName("homepage-tanıtma")[0].innerHTML = `Selam, ben Hasan. ${myAge} yaşındayım ve buraya yaptığım oyunlar,siteler vb. şeyleri koymaktayım, aşağıdan bakabilirsiniz.`;
 
 function superbeatiful3dgame(){
