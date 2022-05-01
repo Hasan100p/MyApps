@@ -6,29 +6,29 @@ function superbeatiful3dgame(){
 }
 
 function balloonshooter(){
-    window.location = "hasan100p.github.io/myapps.io/balloonshooter/"    
+    window.location = "https://hasan100p.github.io/myapps.io/balloonshooter/"    
 }
 
 function flappybird(){
-    window.location = "hasan100p.github.io/myapps.io/flappybird/"
+    window.location = "https://hasan100p.github.io/myapps.io/flappybird/"
 }
 
 function pong(){
-    window.location = "hasan100p.github.io/myapps.io/pong/"
+    window.location = "https://hasan100p.github.io/myapps.io/pong/"
 }
 
 function shooter(){
-    window.location = "hasan100p.github.io/myapps.io/shooter/"
+    window.location = "https://hasan100p.github.io/myapps.io/shooter/"
 }
 
 function snake(){
-    window.location = "hasan100p.github.io/myapps.io/snake/"
+    window.location = "https://hasan100p.github.io/myapps.io/snake/"
 }
 
 function tron(){
-    window.location = "hasan100p.github.io/myapps.io/tron/"
+    window.location = "https://hasan100p.github.io/myapps.io/tron/"
 }
 
 function xox(){
-    window.location = "hasan100p.github.io/myapps.io/xox/"
+    window.location = "https://hasan100p.github.io/myapps.io/xox/"
 }
