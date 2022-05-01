@@ -6,29 +6,29 @@ function superbeatiful3dgame(){
 }
 
 function balloonshooter(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/balloonshooter/index.html"    
+    window.location = "hasan100p.github.io/myapps.io/balloonshooter/"    
 }
 
 function flappybird(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/flappybird/index.html"
+    window.location = "hasan100p.github.io/myapps.io/flappybird/"
 }
 
 function pong(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/pong/index.html"
+    window.location = "hasan100p.github.io/myapps.io/pong/"
 }
 
 function shooter(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/shooter/index.html"
+    window.location = "hasan100p.github.io/myapps.io/shooter/"
 }
 
 function snake(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/snake/index.html"
+    window.location = "hasan100p.github.io/myapps.io/snake/"
 }
 
 function tron(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/tron/index.html"
+    window.location = "hasan100p.github.io/myapps.io/tron/"
 }
 
 function xox(){
-    window.location = "file:///C:/Users/USER/Bilgisayar/Desktop/Kodlama/Uygulamalarım%20HTML/xox/index.html"
+    window.location = "hasan100p.github.io/myapps.io/xox/"
 }
