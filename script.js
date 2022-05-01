@@ -6,7 +6,7 @@ function superbeatiful3dgame(){
 }
 
 function balloonshooter(){
-    window.location = "https://hasan100p.github.io/myapps.io/balloonshooter/"    
+    window.location = "/balloonshooter/"    
 }
 
 function flappybird(){
